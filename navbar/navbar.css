@@ -122,15 +122,6 @@
   }
 } */
 
-body {
-  margin: 0%;
-  padding: 0%;
-  background-color: rgba(0,0,0,1);
-  font-weight:600;
-  text-align:center;
-  color: white;
-}
-
 .page-title {
   opacity: .75 !important;
 }  
