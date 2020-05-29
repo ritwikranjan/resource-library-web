@@ -1,8 +1,8 @@
 body {
-    background-color: black;
+    background-color: #150e06;
   }
   img {
-    box-shadow: 0 0 0px #000000;
+    box-shadow: 0 0 0px #150e06;
   }
 .css-slideshow {
     position: relative;
@@ -14,11 +14,11 @@ body {
     margin: 0;
     max-width: 400px;
     height: 400px;
-    background: #000;
+    background: #150e06;
     position: absolute;
   }
   .css-slideshow img {
-    box-shadow: 0 0 0px #000000;
+    box-shadow: 0 0 0px #150e06;
   }
   .css-slideshow-attr {
     max-width: 400px;
@@ -28,7 +28,7 @@ body {
     margin: 0 auto;
   }
   .css-slideshow-attr a {
-    color: #000000;
+    color: #150e06;
   }
   .css-slideshow figure {
     opacity: 0;
