@@ -2,9 +2,9 @@
   background: url('media/bg_resource.png') no-repeat center;
   background-size: cover; 
   background-attachment: fixed;
-  height: 500px;
+  height: 700px;
   align-items: center;
-  justify-content: center;
+  justify-content : center;
   display: flex;
   color: rgb(255, 255, 255);
   font-size: 22px;
@@ -12,6 +12,11 @@
   letter-spacing: 2px;
 }
 
+.courses{
+  width: 125px;
+  height: 125px;
+  margin-top: 100px;
+}
 
   /* .card {
     display: grid;

@@ -9,10 +9,11 @@
   width: 100%;
   height: 50px;
   z-index: 1;
-  background-color: #00000000;
+  background-color: #151019;
   top:0;
   transition: top 0.3s;
-  border-color: #00000000;
+  border-color: #151019;
+  border-radius: 0;
 }
 
 .nav{
